@@ -43,7 +43,5 @@ fun main() {
 
 Kotlin
 
-
-// Kotlin program to illustrate the use of var and val
-
+ 
  

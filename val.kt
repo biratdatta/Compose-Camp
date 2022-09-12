@@ -25,3 +25,7 @@ fun main() {
     println("$photosDeleted photos deleted")
     println("${numberOfPhotos - photosDeleted} photos left")
 }
+
+
+
+
