@@ -5,6 +5,8 @@ fun main() {
     println("Hello, Android!")
 }
 
+
+
 // Output
 
 Hello, Android!
@@ -44,8 +46,4 @@ Kotlin
 
 // Kotlin program to illustrate the use of var and val
 
-fun main() {
-    val name = "Android"
-    name = "Kotlin"
-    println(name)
-}
+ 
